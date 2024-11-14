@@ -1,9 +1,7 @@
-/* PORTAL CSS */
+/* WEBSITE CSS */
 
 .local {
-  :root {
-    --border-test: rgb(92, 2, 2);
-  }
+    border-color: var(--border-test);
 }
 
 .divContainer {
