@@ -1,11 +1,12 @@
-
 /* PORTAL CSS */
 
-:root{
+.local {
+  :root {
     --border-test: rgb(92, 2, 2);
+  }
 }
 
 .divContainer {
-    border: 1px solid var(--border-test);
-    border-radius: 5px;
+  border: 1px solid var(--border-test);
+  border-radius: 5px;
 }
